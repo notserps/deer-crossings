@@ -1,0 +1,12 @@
+DEER CROSSINGS — USE-ONLY PROPRIETARY LICENSE
+Version 1.0 — 2026
+
+Copyright © 2026 Deer Crossings Project. All rights reserved.
+
+An authorized recipient may install and use Deer Crossings with Assetto Corsa and may keep a personal backup copy. Normal gameplay screenshots, videos and streams are permitted, including monetized gameplay content, provided the mod files themselves are not redistributed.
+
+NO PERMISSION IS GRANTED TO EDIT, MODIFY, FORK, REPACKAGE, REUPLOAD, REDISTRIBUTE, MIRROR, RESELL, SUBLICENSE, EXTRACT ASSETS FROM, OR CREATE DERIVATIVE DISTRIBUTED BUILDS OF DEER CROSSINGS WITHOUT PRIOR WRITTEN PERMISSION FROM THE DEER CROSSINGS AUTHOR.
+
+The package contains third-party material used under separate licenses/permissions. Those materials remain the property of their respective rights holders. See CREDITS_AND_USAGE_RIGHTS.md.
+
+This alpha software is provided as-is, without a warranty of compatibility, availability or fitness for a particular purpose.
