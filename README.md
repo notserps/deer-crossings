@@ -1,10 +1,10 @@
-# Deer Crossings — v1.0.0-alpha.1
+# Deer Crossings — v1.0.04
 
 **Deer Crossings** is a Custom Shaders Patch Lua app for Assetto Corsa singleplayer that adds animated deer encounters to compatible tracks. Deer can approach from the roadside, cross the road, hesitate, stop, turn back, react to headlights, jump some low roadside barriers, and enter an articulated ragdoll state when hit.
 
-This is the **official first public alpha**. It is the first cleaned, user-facing alpha package intended for wider testing.
+The latest build includes wall avoidance, updated jump animations, a persistent Main-tab ON/OFF switch, and brighter deer materials for darker lighting setups.
 
-[Download v1.0.0-alpha.1](https://github.com/notserps/deer-crossings/releases/download/v1.0.0-alpha.1/DeerCrossings-v1.0.0-alpha.1.zip) — free to download. The [version graph](https://notserps.github.io/deer-crossings-graph/) shows how the mod developed.
+[Download v1.0.04](https://github.com/notserps/deer-crossings/releases/download/v1.0.04/DeerCrossings-v1.0.04.zip) — free to download. The [version graph](https://notserps.github.io/deer-crossings-graph/) shows how the mod developed.
 
 ## Requirements
 
@@ -19,7 +19,7 @@ The exact minimum compatible CSP build has not yet been established.
 
 ### Content Manager
 
-1. Download [DeerCrossings-v1.0.0-alpha.1.zip](https://github.com/notserps/deer-crossings/releases/download/v1.0.0-alpha.1/DeerCrossings-v1.0.0-alpha.1.zip).
+1. Download [DeerCrossings-v1.0.04.zip](https://github.com/notserps/deer-crossings/releases/download/v1.0.04/DeerCrossings-v1.0.04.zip).
 2. Drag the ZIP onto Content Manager.
 3. Install it.
 4. Start an Assetto Corsa singleplayer session.
@@ -37,6 +37,7 @@ If an old development build exists at `apps/lua/DeerTest/`, disable or remove it
 
 The Main tab contains normal player-facing controls and status:
 
+- Deer Crossings ON/OFF (remembers your choice)
 - Hit Sounds
 - Vehicle Damage
 - Frenzy Mode

@@ -1,8 +1,8 @@
-# Installation — Deer Crossings v1.0.0-alpha.1
+# Installation — Deer Crossings v1.0.04
 
 ## Content Manager
 
-1. Download `DeerCrossings-v1.0.0-alpha.1.zip`.
+1. Download `DeerCrossings-v1.0.04.zip`.
 2. Drag the ZIP onto Content Manager.
 3. Choose **Install**.
 4. Start a singleplayer session.
